@@ -1,2 +1,2 @@
-# django_project
+# E Commerce Website
 e commerce website
